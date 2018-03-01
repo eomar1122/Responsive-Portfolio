@@ -218,6 +218,9 @@ h3,
   border: 0 none;
   opacity: 0.8;
 }
+#friend-finder-img {
+  height: 205px;
+}
 
 .work h3 {
   position: absolute;
